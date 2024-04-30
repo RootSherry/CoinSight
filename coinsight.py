@@ -12,7 +12,7 @@ from datetime import datetime
 
 
 @plugins.register(
-    name="Coin",
+    name="CoinSight",
     desire_priority=0,
     namecn="币圈行情",
     desc="一个插件用于获取币圈行情",
@@ -348,6 +348,7 @@ class Coin(Plugin):
             return short_help_text
         help_text = "欢迎使用加密货币市场信息查询功能！\n"
         help_text += "你可以通过输入”币圈行情“ 指令获取特定的市场数据 \n"
+        help_text += "已包含：山寨指数、彩虹价格表、贪婪恐慌指数、BTC/ETH统治力指数、ahr999定投指数 \n"
         # help_text += "$B 山寨指数，山寨币的月度、季度和年度指数\n"
         # help_text += "$B 彩虹价格表，BTC彩虹价格表的信息\n"
         # help_text += "$B 贪婪恐慌指数，币圈贪婪恐慌指数\n"
