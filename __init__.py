@@ -1,1 +1,1 @@
-from .coin import *
+from .coinsight import *
