@@ -1,3 +1,2 @@
-tiktoken>=0.3.2
---extra-index-url https://pypi.python.org/simple
-chatgpt_tool_hub>=0.3.10
+pandas>=2.0.3
+requests>=2.28.2
