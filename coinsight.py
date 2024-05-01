@@ -253,8 +253,8 @@ class Coin(Plugin):
         #     os.environ['HTTP_PROXY'] = proxy['http']
         #     os.environ['HTTPS_PROXY'] = proxy['https']
         #
-        # # 替换 'http://127.0.0.1:23457' 为实际的代理地址
-        # proxy_config = {"http": "http://127.0.0.1:23457", "https": "http://127.0.0.1:23457"}
+        # # 替换 'http://127.0.0.1:xxx' 为实际的代理地址
+        # proxy_config = {"http": "http://127.0.0.1:xxx", "https": "http://127.0.0.1:xxx"}
         # set_proxy(proxy_config)
 
         # 获取比特币价格
