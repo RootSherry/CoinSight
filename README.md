@@ -10,9 +10,10 @@
 3. 安装依赖：
    pip install -r requirements.txt
 ### 方法2
-启动chatgpt-on-wechat并登陆之后认证管理员信息，
-输入#installp https://github.com/RootSherry/CoinSight.git 即可自动下载插件
-输入#scanp 扫描新插件并启动
+1. 启动chatgpt-on-wechat并登陆之后认证管理员信息，
+2. 输入#installp https://github.com/RootSherry/CoinSight.git 即可自动下载插件
+3. 输入#scanp 扫描新插件并启动
+
 至此，插件安转完毕，启动chatgpt-on-wechat，使用 coinsight 插件
 
 ## 功能列表
