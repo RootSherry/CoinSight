@@ -14,8 +14,6 @@
 2. 输入#installp https://github.com/RootSherry/CoinSight.git 即可自动下载插件
 3. 输入#scanp 扫描新插件并启动
 
-至此，插件安转完毕，启动chatgpt-on-wechat，使用 coinsight 插件
-
 ## 功能列表
 输入“币圈行情”获取可用查询指令列表，包括：
 - 山寨指数
